@@ -2,7 +2,7 @@ from streamlit_chat import message
 import streamlit as st
 import requests
 
-API_KEY = "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"
+API_KEY = "your_API"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 headers = {
